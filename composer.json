@@ -1,0 +1,14 @@
+{
+    "name": "asistencia/ppp",
+    "description": "",
+    "authors": [
+        {
+            "name": "gabriel",
+            "email": "gabrielmcc2002cultural@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "laravel/framework": "^10.0"
+    }
+}
